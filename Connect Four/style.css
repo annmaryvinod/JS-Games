@@ -4,6 +4,8 @@
     width: 140px;
     display: flex;
     flex-wrap: wrap;
+    margin-left: 45%;
+    margin-top: 15%;
   }
   
   .grid div {
@@ -19,4 +21,13 @@
   .player-two {
     background-color: blue;
     border-radius: 10px;
+  }
+
+  body{
+    background-image: url(new.jpg);
+  }
+
+  h3{
+      margin-left: 40%;
+      color:white;
   }
