@@ -3,7 +3,8 @@
   height: 750px;
   display: flex;
   flex-wrap: wrap;
-  border: solid;
+  border: solid rgb(0, 255, 128);
+  border-radius: 8px;
   margin-left: 30%;
   margin-top: 2%;
 }
@@ -24,6 +25,7 @@ body {
   width: 300px;
   height: 80px;
   border-radius: 20px;
+  border: white;
 
 }
 
@@ -41,7 +43,7 @@ body {
 }
 
 .snake{
-    background-color: yellow;
+    background-color: rgb(255, 197, 7);
     border-radius: 20px;
 }
 
