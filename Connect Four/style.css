@@ -24,7 +24,8 @@
   }
 
   body{
-    background-image: url(new.jpg);
+    /* background-image: url(new.jpg); */
+    background-color: crimson;
   }
 
   h3{
